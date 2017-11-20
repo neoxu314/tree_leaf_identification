@@ -1,5 +1,4 @@
 # A practice for CNN, study a github project for simpson character identification
-# github: https://github.com/alexattia/SimpsonRecognition/blob/master/train.py
 
 import numpy as np
 import cv2
